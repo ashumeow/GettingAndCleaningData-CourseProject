@@ -18,11 +18,10 @@ Main files found here:
 2. 1_clean_data.txt
 3. 2_independent_tidy_dataset.txt
 Then, the dataset folder that have been downloaded for training and testing sets.
-Finally, a <code>codebook.md</code> that explains it.
-```
+Finally, a "codebook.md" that explains it.
 ```
 For writing the <code>run_analysis.R</code>, some steps have been followed:-
-
+```
 Step 1: Merges the training and the test sets to create one data set.
 Step 2: Extracts only the measurements on the mean and standard deviation for each measurement. 
 Step 3: Uses descriptive activity names to name the activities in the data set
